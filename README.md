@@ -32,3 +32,4 @@ The balanced accuracy scores and precision of all six machine learning models ar
 
 
 ## Summary 
+The different models/methods seem to give about the same level of precision of 99%. However, the Easy Ensemble AdaBoost Classifier looks to be the most effective and thus would recommend. This gives a High risk loan precision. 
